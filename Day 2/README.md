@@ -136,7 +136,7 @@ The major findings from the analysis include:
 ## 📁 Project Structure
 
 ```text
-EDA_Superstore/
+Day 2/
 │
 ├── SampleSuperstore.csv
 ├── EDA_Superstore.ipynb
