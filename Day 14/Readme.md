@@ -34,7 +34,6 @@ The analysis was performed using the Sample Superstore dataset.
 =SUM(Table1[Sales])
 =AVERAGE(Table1[Sales])
 =COUNTA(Table1[Order ID])
-
-Key Learning
 ```
+Key Learning
 Basic KPIs provide a quick way to understand the overall performance of a dataset. Before performing advanced analysis, calculating fundamental metrics such as total sales, average sales, and transaction count helps establish a clear understanding of the data.
