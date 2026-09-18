@@ -17,10 +17,11 @@ The objective was to compare sales and profit across different regions, calculat
 ## 📊 Region Performance Summary
 
 | Region | Total Sales | Total Profit | Sales Rank | Profit Margin |
-| Central | ₹501,239.89 | ₹39,706.36 | 3 | 8% |
-| East | ₹678,781.24 | ₹91,522.78 | 2 | 13% |
-| South | ₹391,721.91 | ₹46,749.43 | 4 | 12% |
-| West | ₹725,457.82 | ₹108,418.45 | 1 | 15% |
+|---|---:|---:|---:|---:|
+| Central | ₹501,239.89 | ₹39,706.36 | 3 | 7.92% |
+| East | ₹678,781.24 | ₹91,522.78 | 2 | 13.48% |
+| South | ₹391,721.91 | ₹46,749.43 | 4 | 11.93% |
+| West | ₹725,457.82 | ₹108,418.45 | 1 | 14.95% |
 
 Total Profit / Total Sales × 100
 📈 Visualizations
