@@ -109,16 +109,5 @@ Inventory Summary
 | Slow-Moving Products   |        9 |
 | Slow-Moving Percentage |      45% |
 
-Skills Practiced
 
-Inventory Analysis
-Excel Data Analysis
-SUMIF
-AVERAGEIF
-IF
-COUNTIF
-FILTER
-Inventory Turnover Calculation
-Category Analysis
-Data Visualization
 Business Insights
