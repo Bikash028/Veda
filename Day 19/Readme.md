@@ -110,6 +110,7 @@ Inventory Summary
 | Slow-Moving Percentage |      45% |
 
 Skills Practiced
+
 Inventory Analysis
 Excel Data Analysis
 SUMIF
