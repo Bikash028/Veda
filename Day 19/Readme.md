@@ -109,24 +109,6 @@ Inventory Summary
 | Slow-Moving Products   |        9 |
 | Slow-Moving Percentage |      45% |
 
-Interview Questions
-What is inventory turnover?
-Inventory turnover measures how quickly inventory is sold or consumed during a given period.
-
-The standard formula is:
-Inventory Turnover = Cost of Goods Sold / Average Inventory
-
-For this project, a unit-based turnover measure was used:
-Turnover Ratio = Units Sold / Average Inventory
-
-Why can high turnover be risky?
-High turnover can indicate that inventory is moving quickly, but if replenishment cannot keep up with demand, the business may experience stockouts and potentially lose sales.
-Therefore, turnover should be evaluated together with inventory availability and demand.
-
-What is a slow-moving product?
-A slow-moving product is an item whose inventory moves relatively slowly compared with a defined benchmark.
-In this project, products with turnover below 1,817.22 were classified as relatively slow-moving.
-
 Skills Practiced
 Inventory Analysis
 Excel Data Analysis
