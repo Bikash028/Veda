@@ -109,5 +109,3 @@ Inventory Summary
 | Slow-Moving Products   |        9 |
 | Slow-Moving Percentage |      45% |
 
-
-Business Insights
