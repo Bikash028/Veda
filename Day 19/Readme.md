@@ -109,51 +109,14 @@ Inventory Summary
 | Slow-Moving Products   |        9 |
 | Slow-Moving Percentage |      45% |
 
-Visualizations
-
-Two charts were created in Excel:
-1. Inventory Turnover by Category
-A column chart comparing turnover ratios across:
-Groceries
-Toys
-Electronics
-Furniture
-Clothing
-2. Slow-Moving Products by Turnover Ratio
-A bar chart showing the nine products classified as relatively slow-moving.
-Key Findings
-The analysis covered 20 products.
-The average product-level turnover ratio was 1,817.22.
-9 products had turnover below this benchmark.
-Therefore, 45% of products were classified as relatively slow-moving.
-Among the categories analyzed, Furniture had a turnover ratio of 7,341.91, while Electronics had 7,193.86.
-The category turnover ratios were relatively close to each other.
-P0008 had the lowest turnover ratio among the identified slow-moving products at 1,791.09.
-P0006 had a turnover ratio of 1,817.19, which was just below the benchmark of 1,817.22.
-Business Interpretation
-
-Products with turnover below the product-level benchmark can be flagged for further inventory review.
-Slow-moving inventory may require additional investigation because inventory that remains in stock for longer periods can increase holding requirements and tie up working capital.
-However, the slow-moving classification in this project is relative to the dataset's average turnover. It does not by itself indicate that a product is unsold or commercially unsuccessful.
-
-A real-world inventory analysis could additionally consider:
-Stockout frequency
-Inventory holding cost
-Demand forecasts
-Seasonality
-Reorder levels
-Lead time
-Historical demand trends
 Interview Questions
 What is inventory turnover?
-
 Inventory turnover measures how quickly inventory is sold or consumed during a given period.
 
 The standard formula is:
 Inventory Turnover = Cost of Goods Sold / Average Inventory
 
 For this project, a unit-based turnover measure was used:
-
 Turnover Ratio = Units Sold / Average Inventory
 
 Why can high turnover be risky?
