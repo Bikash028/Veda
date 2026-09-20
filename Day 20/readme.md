@@ -80,8 +80,6 @@ The Power BI dashboard contains:
 - Attrition rates should be considered together with employee population size when interpreting HR patterns.
 
 ## DAX Measures
-### Employees Left
-
 ```DAX
 Employees Left =
 CALCULATE(
