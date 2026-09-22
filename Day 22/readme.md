@@ -50,5 +50,3 @@ Created a **Cohort Retention Heatmap** to visualize retention across cohorts and
 ## 🎓 Skills Demonstrated
 Data Cleaning • Cohort Analysis • Customer Retention • Date Analysis • Pandas • Data Visualization • Excel Reporting
 
-## ✅ Status
-**Day 22 — Completed**
