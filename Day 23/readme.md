@@ -3,9 +3,6 @@
 ## Overview
 Day 23 focused on learning and practicing SQL Window Functions using MySQL Workbench and a Northwind-style dataset.
 
-## Dataset
-The practice database was `day23_sql`. The `Products` table was successfully loaded with **25 products**.
-
 ## Objectives
 - Understand SQL Window Functions.
 - Learn `ROW_NUMBER()`, `RANK()`, and `DENSE_RANK()`.
@@ -69,8 +66,3 @@ WHERE rn <= 2;
 - MySQL Workbench
 - SQL
 - Northwind-style relational dataset
-
-
-
-## Completion
-**Day 23 completed successfully.**
