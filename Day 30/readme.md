@@ -14,7 +14,7 @@ Superstore Dataset
 - Rows: 9,994
 - Regions: Central, East, South, West
 - Key columns: Order Date, Region, Sales
-- 
+  
 Work Completed
 - Prepared the sales and order-date data.
 - Created yearly sales data for each region.
@@ -59,5 +59,6 @@ Tools Used
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+  
 Conclusion
 The analysis provided a clear view of regional sales growth and highlighted differences in performance across the four regions. The findings can help businesses identify growth opportunities, investigate underperforming periods, and make better regional sales decisions.
